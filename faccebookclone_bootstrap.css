@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: whitesmoke;
+}
+.container{
+    height: 100%!important;
+}
+.btn{
+    width: 90%;
+    margin: auto;
+}
+.btn-second{
+    width: 55%;
+    font-weight: 600;
+    background-color:#47d52a ;
+    border: none;
+}    
+
+.btn-second:hover{
+   background-color: #36A420!important ; 
+}
+.form-control{
+    width: 90%!important;
+    margin: auto!important;
+}
+.small a{
+    text-decoration: none;
+}
+.small a:hover{
+    text-decoration: underline;
+}
+.fs-1{
+    line-height: 2.8rem!important;
+}
+hr{
+    width:93%;
+    margin: auto;
+}
